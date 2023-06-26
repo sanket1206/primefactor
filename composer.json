@@ -1,0 +1,14 @@
+{
+    "name": "test/primenumber",
+    "autoload": {
+        "psr-4": {
+            "Test\\Primenumber\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "sanket1206",
+            "email": "126146819+sanket1206@users.noreply.github.com"
+        }
+    ]
+}
