@@ -11,5 +11,7 @@
             "email": "126146819+sanket1206@users.noreply.github.com"
         }
     ],
-    "require": {}
+    "require": {
+        "composer/spdx-licenses": "^1.5"
+    }
 }

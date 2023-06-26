@@ -7,4 +7,5 @@ $baseDir = dirname($vendorDir);
 
 return array(
     'Sanket123\\Primenumber\\' => array($baseDir . '/src'),
+    'Composer\\Spdx\\' => array($vendorDir . '/composer/spdx-licenses/src'),
 );

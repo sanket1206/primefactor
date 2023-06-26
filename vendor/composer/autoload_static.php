@@ -11,12 +11,20 @@ class ComposerStaticInit3a87607da2c0e0c1dc0ab2616e9b55eb
         array (
             'Sanket123\\Primenumber\\' => 22,
         ),
+        'C' => 
+        array (
+            'Composer\\Spdx\\' => 14,
+        ),
     );
 
     public static $prefixDirsPsr4 = array (
         'Sanket123\\Primenumber\\' => 
         array (
             0 => __DIR__ . '/../..' . '/src',
+        ),
+        'Composer\\Spdx\\' => 
+        array (
+            0 => __DIR__ . '/..' . '/composer/spdx-licenses/src',
         ),
     );
 
