@@ -1,6 +1,6 @@
 <?php
 
-namespace Test\Primenumber;
+namespace Sanket123\Primenumber;
 
 use test\PrimeFactors;
 use PHPUnit\Framework\TestCase;
