@@ -3,7 +3,7 @@
         'name' => 'sanket123/primenumber',
         'pretty_version' => 'dev-main',
         'version' => 'dev-main',
-        'reference' => '1108bc818ebe2de4cdffbf66acccf87512b773b6',
+        'reference' => '2c9c5e27fd801c7c93eb15fea5132b21ed7c3307',
         'type' => 'library',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
@@ -22,7 +22,7 @@
         'sanket123/primenumber' => array(
             'pretty_version' => 'dev-main',
             'version' => 'dev-main',
-            'reference' => '1108bc818ebe2de4cdffbf66acccf87512b773b6',
+            'reference' => '2c9c5e27fd801c7c93eb15fea5132b21ed7c3307',
             'type' => 'library',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
