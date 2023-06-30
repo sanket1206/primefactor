@@ -12,6 +12,6 @@
         }
     ],
     "require": {
-        "composer/spdx-licenses": "MIT"
+        "composer/spdx-licenses": "^1.5"
     }
 }
